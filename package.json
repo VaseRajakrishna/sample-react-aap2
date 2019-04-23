@@ -2,7 +2,7 @@
   "name": "react-app-two",
   "version": "0.1.0",
   "private": true,
-  "home": "https://vaserajakrishna.github.io/sample-react-app2/index.html",
+  "home": "https://vaserajakrishna.github.io/sample-react-app2/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.5",
